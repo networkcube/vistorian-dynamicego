@@ -27,19 +27,19 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/networkcube/vistorian-dynamicego.git"
+        "url": "git+https://github.com/alkadi-mh/vistorian-dynamicego.git"
     },
     "collaborators": [
         "Jean-Daniel Fekete <Jean-Daniel.Fekete@inria.fr",
         "Alexandra Ibarra Cuesta"
     ],
-    "homepage": "https://github.com/networkcube/networkcube#readme",
+    "homepage": "https://github.com/alkadi-mh/vistorian-dynamicego#readme",
     "bundledDependencies": [
         "jquery",
         "jstorage",
         "moment",
         "vistorian-core",
-        "vistorian-vis"
+        "vistorian-web"
     ],
     "dependencies": {
         "@types/three": "^0.93.27",
