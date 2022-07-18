@@ -1,3 +1,8 @@
+> **Note**
+> The latest code for the Vistorian project is now kept in the [vistorian-monorepo](https://github.com/networkcube/vistorian-monorepo) repository.
+> The code for the `vistorian-dynamicego` package is [here](https://github.com/networkcube/vistorian-monorepo/tree/master/packages/vistorian-dynamicego).
+
+
 # Vistorian-Dynamicego
 
 This repository contains the dynamic ego visualisation. 
